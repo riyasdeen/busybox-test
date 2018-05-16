@@ -1,2 +1,3 @@
 from busybox
-ADD dummy.txt .
+COPY ./server /home/
+CMD /home/server
