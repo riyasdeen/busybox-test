@@ -1,2 +1,2 @@
 from busybox
-ADD dummy.txt
+ADD dummy.txt .
