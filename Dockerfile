@@ -1,3 +1,3 @@
 from busybox
-COPY ./server /home/
+COPY ./server.go /home/
 CMD /home/server
